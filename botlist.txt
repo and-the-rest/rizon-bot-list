@@ -4,6 +4,7 @@ sed
 grep
 linkreader
 deedeegee
+ddg
 yossarian-bot
 yosbot
 weedle
@@ -52,3 +53,12 @@ boatz
 Pharazon
 lykbot
 KawaiiBot
+FUCKUIMABOT
+RatThing
+Pirou
+Katou
+bro
+happybox
+megabot
+cybits
+immutable-bot
